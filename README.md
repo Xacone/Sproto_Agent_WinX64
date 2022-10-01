@@ -1,3 +1,3 @@
 # Sproto_Agent_WinX64
 
-<img src="sproto_agent.jpg"> 
+<img src="sproto_agent.png"> 
