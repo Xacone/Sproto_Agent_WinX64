@@ -9,4 +9,5 @@ Agent Windows (x64) de l'outil Sprototype (repo privé), destiné à terminal ut
   <li>Traitement des procédures de réponse.</li>
 </ul>
 
-<img src="sproto_agent.png"> 
+<img src="sproto_agent.png"><br>
+<img src="sproto.jpg">
