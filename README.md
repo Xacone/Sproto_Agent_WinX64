@@ -1,5 +1,5 @@
 # Sproto_Agent_WinX64.exe
-Agent Windows (x64) de l'outil Sprototype (repo privé), destiné à terminal utilisateur. <br>
+Agent Windows (x64) de l'outil Sprototype destiné au terminal utilisateur. <br>
 
 <ul>
   <li>Envoi des informations système et utilisateur.</li>
